@@ -1,9 +1,8 @@
-# YouTube-Fetcher-Scripts
-A collection of Python scripts to fetch and export YouTube video data. This repository includes tools for retrieving YouTube videos, shorts, and longs based on keywords, with options to export the results to CSV or Excel files. Perfect for data analysis and content discovery.
-
 # YouTube Video Fetcher Scripts
 
 This repository contains three Python scripts to fetch video data from YouTube based on different criteria and export the results to CSV or Excel files.
+A collection of Python scripts to fetch and export YouTube video data. This repository includes tools for retrieving YouTube videos, shorts, and longs based on keywords, with options to export the results to CSV or Excel files. Perfect for data analysis and content discovery.
+
 
 ## Scripts
 
