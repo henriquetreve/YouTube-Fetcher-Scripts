@@ -31,8 +31,8 @@ Fetches YouTube long videos (longer than 60 seconds) based on a keyword, retriev
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/your-username/your-repository-name.git
-    cd your-repository-name
+    git clone https://github.com/henriquetreve/YouTube-Fetcher-Scripts.git
+    cd YouTube-Fetcher-Scripts
     ```
 
 2. **Install Dependencies**:
